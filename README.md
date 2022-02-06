@@ -1,2 +1,5 @@
-# python-fatura-hesaplama
-Python dili ile elektrik, doğalgaz ve su faturaları hesaplamanıza yardımcı olacak uygulamadır.
+# Bu uygulama nedir ve ne işe yarar?
+Bu uygulama girdiğiniz değerlere göre faturalarınızı hesaplayan bir uygulamadır.
+
+# Fiyatlara zam gelirse ne olacak?
+https://www.hizliresim.com/k3jurwp
